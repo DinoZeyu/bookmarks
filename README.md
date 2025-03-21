@@ -36,7 +36,7 @@
 | LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
 | LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Neural memory module for long-term sequence modeling|
 | LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Neural memory module for long-term sequence modeling|
-
+| LLM Materials| [https://github.com/mlabonne] |  This page contains LLM courses, datasets, pipelines and Finetuned models which would be a good reference for LLM learning|
 
 ### Prompt engineering
 
